@@ -1,1 +1,1 @@
-This is to document the Fokker large scale model airplane project
+This is to document the Fokker half scale model airplane project
